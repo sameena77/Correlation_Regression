@@ -20,8 +20,8 @@ If y represents the dependent variable and x the independent variable, this rela
 ![image](https://user-images.githubusercontent.com/104613195/168225866-ac8f6610-bdc3-4ac2-a24e-2b24ba08e189.png)
 
 # Program :
+![Screenshot (13)](https://github.com/sameena77/Correlation_Regression/assets/155620541/94aecd42-a77f-475a-970a-922de3b3d37c)
 
-![Screenshot (14)](https://github.com/sameena77/Correlation_Regression/assets/155620541/ac9cab27-99e7-4e9f-9f33-dddbe1ab72bc)
 
 # Output 
 ![Screenshot (14)](https://github.com/sameena77/Correlation_Regression/assets/155620541/d8411d68-8919-41f5-a775-abc4bce9a3f7)
